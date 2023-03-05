@@ -1,0 +1,57 @@
+baseURL: "https://www.brianyator.com"
+languageCode: en-us
+title: Brian Yator
+theme: newTheme
+
+paginate: 6
+menu:
+  main:
+    - name: Home
+      url: '#home'
+      weight: 1
+    - name: About
+      url: '#about'
+      weight: 2
+    - name: Newsletters
+      url: '#newsletter'
+      weight: 3
+    - name: Contact
+      url: '#contact'
+      weight: 4
+  sitemap:
+    - name: Subscribe to my newsletter
+      url: '#'
+      weight: 1
+    - name: My YouTube channel
+      url: https://www.youtube.com/c/BrianYator
+      weight: 2
+params:
+  blogPageURL: blog
+  contactLink: contact
+  copyright: All right reserved • Copyright © Brian Yator 2022 
+  footerLogo: images/contact/goog.png
+  formspreeURL: YOUR FORMSPREE URL
+  googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+  logo: images/site-navigation/matilda.png
+  address:
+    address: 'Nairobi, Kenya.'
+    email: info@brianyator.com
+    phone: +254793053730
+  map:
+    APIkey: YOUR GOOGLE MAP API
+    latitude: '23.7783741'
+    longitude: '90.3746808'
+    pinImage: images/pin.png
+  social:
+    - icon: fa-facebook-official
+      url: 'https://www.facebook.com/brianyatorke'
+      weight: 1
+    - icon: fa-linkedin-square
+      url: 'https://www.linkedin.com/in/brian-yator-81b263209/'
+      weight: 2
+    - icon: fa-pinterest-square
+      url: 'https://www.pinterest.com/brianyator_/'
+      weight: 3
+    - icon: fa-twitter-square
+      url: 'https://twitter.com/brianyator_'
+      weight: 4

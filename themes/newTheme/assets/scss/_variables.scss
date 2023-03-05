@@ -1,0 +1,37 @@
+//
+// Colors
+//
+
+// General
+$primary: #0f5792;
+$secondary: #2C3740;
+// Text
+$headings-color: #2C3740;
+$body-color: #7e7e8a;
+
+//
+// Typography
+
+
+//https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap
+
+// Fonts
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Special+Elite&display=swap");
+$font-family-base: 'Arvo', serif;
+$headings-font-family: 'Special Elite', cursive;
+
+// Size
+$font-size-base: 1.125rem; // 18px
+$h1-font-size: 40px;
+$h2-font-size: 50px;
+$h3-font-size: 30px;
+$h4-font-size: 25px;
+$h5-font-size: 22px;
+$h6-font-size: 16px;
+
+// Spacing
+$headings-margin-bottom: 1.5rem;
+$line-height-base: 1.75;
+
+// Misc
+$link-hover-decoration: none;

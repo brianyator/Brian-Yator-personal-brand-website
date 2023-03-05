@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I'm Brian Yator
+content: >
+  # [YouTuber](https://www.youtube.com/c/BrianYator). I share useful insights on how to live a more authentic life.
+
+  Subscribe to my monthly [newsletter](https://www.brianyator.com/newsletters/) down below. No spam. Just food for thought.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/me2.jpg
+videoThumb: images/hero/maxresdefault.jpg
+videoURL: https://www.youtube.com/watch?v=C3-htOHtYaI
